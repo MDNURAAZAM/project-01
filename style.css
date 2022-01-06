@@ -110,3 +110,23 @@ body {
   margin-bottom: 70px;
   /* margin-top: 50px; */
 }
+
+/* section 3 ends*/
+.section-four {
+  display: flex;
+  margin: 100px 124px;
+}
+.section-four img {
+  width: 84%;
+  border-radius: 10%;
+  margin-left: 70px;
+}
+.section-four h3 {
+  font-size: 40px;
+}
+
+.section-four p {
+  font-weight: 400;
+  margin-bottom: 70px;
+  /* margin-top: 50px; */
+}

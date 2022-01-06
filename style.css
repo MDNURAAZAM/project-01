@@ -27,7 +27,7 @@ body {
   border-left: 5px solid #ff5959;
 }
 .orange-red {
-  color: #ff5722;
+  color: #e07116;
 }
 .section-one p {
   font-weight: 600;
@@ -107,6 +107,7 @@ body {
 }
 .section-three h3 {
   font-size: 40px;
+  margin: 40px 0;
 }
 
 .section-three p {
@@ -127,6 +128,7 @@ body {
 }
 .section-four h3 {
   font-size: 40px;
+  margin: 40px 0;
 }
 
 .section-four p {

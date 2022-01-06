@@ -1,6 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+/* section 1 starts */
 .section-one {
   display: flex;
 }
@@ -44,4 +45,42 @@ body {
   color: #be2c2cd9;
   border: 1px solid #be2c2cd9;
   transition: 1s;
+}
+/* section 1 ends */
+
+/* section 2 starts */
+.section-two h1 {
+  font-size: 50px;
+  text-align: center;
+}
+.missions {
+  display: flex;
+  margin: left;
+  margin-left: 125px;
+  margin-top: 60px;
+}
+
+.mission-item {
+  width: 20%;
+  border-radius: 30px;
+  padding: 15px 43px;
+  /* text-align: justify; */
+  margin-right: 60px;
+}
+
+.mission-item img {
+  width: 60%;
+}
+.mission-item h3 {
+  font-size: 25px;
+}
+
+.item-one {
+  background-color: #edf5f6;
+}
+.item-two {
+  background-color: #ffeeee;
+}
+.item-three {
+  background-color: #fff4d6;
 }

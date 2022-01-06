@@ -84,3 +84,29 @@ body {
 .item-three {
   background-color: #fff4d6;
 }
+/* section 2 ends */
+
+/* section 3 starts */
+.section-three {
+  display: flex;
+  margin: 100px 124px;
+}
+.width-percent-forty {
+  width: 40%;
+}
+.width-percent-sixty {
+  width: 60%;
+}
+.section-three img {
+  width: 84%;
+  border-radius: 10%;
+}
+.section-three h3 {
+  font-size: 40px;
+}
+
+.section-three p {
+  font-weight: 400;
+  margin-bottom: 70px;
+  /* margin-top: 50px; */
+}
